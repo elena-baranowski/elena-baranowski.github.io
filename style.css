@@ -3,9 +3,22 @@
 	padding: 2px;
 }
 h1{
-    font-family:Times, serif;
+    font-family: Times, serif;
     font-weight:Bold; 
     font-size: 25px;
+    line-height: 1;
     letter-spacing:-0.3px;
 
+}
+
+a {
+    text-decoration: underline; 
+}
+
+a.souligné {
+    font-family: Times, serif;
+    font-weight:Bold; 
+    font-size: 25px;
+    line-height: 1;
+    letter-spacing:-0.3px;
 }
