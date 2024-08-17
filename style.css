@@ -5,20 +5,9 @@
 h1{
     font-family: Times, serif;
     font-weight:Bold; 
-    font-size: 25px;
-    line-height: 1;
-    letter-spacing:-0.3px;
+    font-size: 22px;
+    line-height: 1.1;
+    letter-spacing:-0.2px;
 
 }
 
-a {
-    text-decoration: underline; 
-}
-
-a.souligné {
-    font-family: Times, serif;
-    font-weight:Bold; 
-    font-size: 25px;
-    line-height: 1;
-    letter-spacing:-0.3px;
-}
