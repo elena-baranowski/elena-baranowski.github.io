@@ -6,6 +6,7 @@ html {
   height: 100dvh;
   font-family: "Antique-Legacy-SemiBold", sans-serif;
   font-size: 12px;
+  overflow: hidden;
 }
 
 header {
@@ -43,5 +44,6 @@ main {
   main {
     font-size: 0.9rem;
     line-height: 1rem;
+    overflow: hidden;
   }
 }
