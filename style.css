@@ -4,8 +4,7 @@ html {
   margin: 0;
   width: 100vw;
   height: 100dvh;
-  font-family: sans-serif;
-  font-weight: Bolder;
+  font-family: "Antique-Legacy-SemiBold", sans-serif;
   font-size: 12px;
 }
 
@@ -33,8 +32,8 @@ main {
 }
 
 @font-face {
-  font-family: "";
-  src: url("") format("woff");
+  font-family: "Antique-Legacy-SemiBold";
+  src: url("/Users/elenabaranowski/Desktop/Elena-Baranowski/FONT/Antique-Legacy-Semibold.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
