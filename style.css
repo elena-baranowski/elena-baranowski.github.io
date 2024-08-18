@@ -33,7 +33,7 @@ main {
 
 @font-face {
   font-family: "Antique-Legacy-SemiBold";
-  src: url("/Users/elenabaranowski/Desktop/Elena-Baranowski/FONT/Antique-Legacy-Semibold.woff2") format("woff2");
+  src: url("/FONT/Antique-Legacy-Semibold.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
