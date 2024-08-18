@@ -4,7 +4,7 @@ html {
   margin: 0;
   width: 100vw;
   height: 100dvh;
-  font-family: "Antique-Legacy-SemiBold", sans-serif;
+  font-family: "Antique-Legacy-Bold", sans-serif;
   font-size: 12px;
 }
 
@@ -32,8 +32,8 @@ main {
 }
 
 @font-face {
-  font-family: "Antique-Legacy-SemiBold";
-  src: url("/FONT/Antique-Legacy-Semibold.woff2") format("woff2");
+  font-family: "Antique-Legacy-Bold";
+  src: url("/FONT/Antique-Legacy-Bold.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
