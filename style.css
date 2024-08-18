@@ -4,7 +4,7 @@ html {
   margin: 0;
   width: 100vw;
   height: 100dvh;
-  font-family: "Font", sans-serif;
+  font-family: serif;
   font-size: 12px;
 }
 
@@ -32,8 +32,8 @@ main {
 }
 
 @font-face {
-  font-family: "Font";
-  src: url("../font/font.woff") format("woff");
+  font-family: "";
+  src: url("") format("woff");
   font-weight: normal;
   font-style: normal;
 }
