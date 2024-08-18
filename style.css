@@ -4,7 +4,8 @@ html {
   margin: 0;
   width: 100vw;
   height: 100dvh;
-  font-family: serif;
+  font-family: sans-serif;
+  font-weight: Bolder;
   font-size: 12px;
 }
 
