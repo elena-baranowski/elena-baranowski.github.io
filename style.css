@@ -5,14 +5,14 @@ html {
   width: 100vw;
   height: 100dvh;
   font-family: "Antique-Legacy-Light", sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   overflow: hidden;
 }
 
 header {
-  position: absolute;
-  top: 0;
-  left: 15;
+  position: relative;
+  top: 20px;
+  left: 20px;
   padding: 1rem;
   width: 100%;
   box-sizing: border-box;
@@ -24,9 +24,9 @@ a {
 }
 
 main {
-  position: absolute;
-  top: calc(50dvh - 1rem);
-  left: 15;
+  position:  relative;
+  top: calc(20dvh - 1rem);
+  left: 20px;
   padding: 1rem;
   width: 100%;
   box-sizing: border-box;
@@ -35,7 +35,7 @@ main {
 @font-face {
   font-family: "Antique-Legacy-Light";
   src: url("/FONT/Antique-Legacy-Light.woff2") format("woff2");
-  font-weight: Bolder;
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -44,6 +44,5 @@ main {
   main {
     font-size: 0.9rem;
     line-height: 1rem;
-    overflow: hidden;
   }
 }
