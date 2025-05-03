@@ -11,8 +11,8 @@ html {
 
 header {
   position: relative;
-  top: 20px;
-  left: 20px;
+  top: 50px;
+  left: 50px;
   padding: 1rem;
   width: 100%;
   box-sizing: border-box;
@@ -26,7 +26,7 @@ a {
 main {
   position:  relative;
   top: calc(20dvh - 1rem);
-  left: 20px;
+  left: 50px;
   padding: 1rem;
   width: 100%;
   box-sizing: border-box;
